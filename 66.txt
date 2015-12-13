@@ -1,0 +1,13 @@
+100: 0 Teledeporte
+110: 0 Canal Ingenieria (control)
+260: 0 VEO7
+261: 0 AXN (encrypted) 
+262: 0 Tienda en VEO
+269: 0 GUIDE PLUS+ (control)
+271: 0 RADIO MARCA
+272: 0 esRadio
+273: 0 Vaughan Radio
+300: 0 Intereconomia
+303: 0 Radio Interecon
+65534: 0 (control)
+tsid=0xA

@@ -1,0 +1,5 @@
+40001: 0 TVE-HD Pruebas
+40002: 0 Teledeporte
+40005: 0 Radio Clasica
+40006: 0 Radio 3
+tsid=0x9c40

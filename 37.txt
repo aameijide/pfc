@@ -1,0 +1,5 @@
+1: 0 CATALUNYA1-TA
+2: 0 CAT-TV-I
+3: 0 CAT3-L9
+4: 0 CAT 4
+tsid=0xAAAA

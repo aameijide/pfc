@@ -1,0 +1,6 @@
+32800: 0 Canal català Vallès
+32805: 0 mola TV
+32806: 0 mola FM
+32810: 0 TVSC - Vallès 1
+32815: 0 TV20 Terrassa
+tsid=0x4FB2

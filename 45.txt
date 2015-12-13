@@ -1,0 +1,6 @@
+33000: 0 TeleTaxi TV
+33001: 0 Radio RM
+33002: 0 Radio TeleTaxi
+33005: 0 Canal Terrassa Vallès
+33006: 0 95.2 Terrassa
+tsid=0x27D8

@@ -1,0 +1,5 @@
+10047: 0 Sensació FM
+30825: 0 Canal Catala Barcelona
+30830: 0 25 TV
+30831: 0 ONDA RAMBLA PUNT
+tsid=0x4E49

@@ -1,0 +1,8 @@
+30800: 0 BTV
+30801: 0 COM Radio
+30805: 0 TV L'Hospitalet
+30806: 0 Radio L'Hospi
+30810: 0 Televisio Badal
+30811: 0 Radio Ciutat Ba
+30815: 0 TV del Besos
+tsid=0x4E48

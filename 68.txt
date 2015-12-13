@@ -1,0 +1,6 @@
+180: 0 Telecinco
+181: 0 FDF
+182: 0 laSiete
+183: 0 Cincoshop
+301: 0 Disney Channel
+tsid=0xC
